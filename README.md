@@ -35,6 +35,5 @@ YAML          11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </picture>
 
 ### 📚 Latest Posts
-- [2024 前端工程師面試心得](https://www.cofcat.com/posts/2024-front-end-interview-experience)
-- [關於在 Vue3 Typescript 中定義 Props](https://www.cofcat.com/posts/vue3-typescript-props)
+- [2024 前端工程師面試心得](https://www.ilyal.me/posts/2024-front-end-interview-experience)
 
