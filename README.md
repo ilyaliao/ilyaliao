@@ -35,5 +35,5 @@ YAML                       35 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </picture>
 
 ### 📚 Latest Posts
-- [2024 前端工程師面試心得](https://www.ilyal.me/posts/2024-front-end-interview-experience)
+- [2024 前端工程師面試心得](https://ilyal.me/posts/2024-front-end-interview-experience)
 
