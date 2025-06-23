@@ -4,11 +4,11 @@ A software engineer based in Taiwan.
 
 ## 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=nodejs,js,ts,tailwind,react,nextjs,vue,pinia,nuxt)
+![Tech stack](https://skillicons.dev/icons?i=nodejs,js,ts,tailwind,vite,vitest,vue,pinia,nuxt)
 
 ### 🛠 Tools I use
 
-![Tools I use](https://skillicons.dev/icons?i=neovim,vim,vscode,pnpm,vite,vercel,git,github,postman,discord)
+![Tools I use](https://skillicons.dev/icons?i=vim,vscode,pnpm,vite,vercel,git,github,postman,discord)
 
 ### ⏲️ This week I spent time on...
 
