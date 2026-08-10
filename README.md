@@ -15,9 +15,13 @@ A software engineer based in Taiwan.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 9 hrs 14 mins
 
-No activity tracked
+Markdown     3 hrs 9 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.38 %
+TypeScript   1 hr 36 mins          ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.99 %
+Vue          1 hr 34 mins          ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.56 %
+TOML         1 hr 32 mins          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.27 %
+JavaScript   30 mins               ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.37 %
 ```
 
 <!--END_SECTION:waka-->
